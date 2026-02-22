@@ -1,0 +1,3 @@
+We are hiring a candidate with strong Python skills, SQL knowledge, and experience in machine learning.
+Streamlit is a plus.
+

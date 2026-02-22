@@ -1,0 +1,3 @@
+I have experience in Python, SQL, machine learning and data analysis.
+Built projects using Flask and Streamlit.
+

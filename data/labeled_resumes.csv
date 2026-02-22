@@ -1,0 +1,139 @@
+resume_text,jd_text,label
+"Python SQL machine learning Streamlit Flask projects","Need Python SQL and machine learning with Streamlit",1
+"Python SQL data analysis pandas numpy","Hiring Python SQL data analysis skills",1
+"Java Spring Boot REST API MySQL","Need Python ML SQL",0
+"HTML CSS JavaScript React frontend developer","Hiring frontend React developer HTML CSS",1
+"Python Django REST API PostgreSQL","Need backend Django developer Python PostgreSQL",1
+"C++ DSA competitive programming","Need data analyst Python SQL",0
+"Python NLP text processing TF-IDF cosine similarity","Need NLP engineer Python text processing",1
+"Python TensorFlow Keras CNN deep learning","Need deep learning engineer TensorFlow CNN",1
+"Python Flask Streamlit deployment","Need ML app deployment Streamlit Flask",1
+"Excel Power BI Tableau dashboards","Need data analyst Excel Power BI dashboards",1
+"Python SQL Power BI data cleaning","Need data analyst Python SQL Power BI",1
+"Java Android development Kotlin Firebase","Need backend Python Django",0
+"Python AWS EC2 S3 deployment Docker","Need cloud deployment AWS Docker",1
+"Linux networking cybersecurity basics","Need ML engineer Python NLP",0
+"Python machine learning scikit-learn classification","Need ML engineer scikit-learn classification",1
+"Python deep learning PyTorch CNN transfer learning","Need PyTorch deep learning CNN",1
+"SQL MySQL database design normalization","Need SQL developer MySQL database design",1
+"Python Selenium automation testing","Need QA automation Selenium Python",1
+"Python Flask API JWT authentication","Need Flask developer API JWT",1
+"React Node MongoDB full stack","Need full stack developer React Node MongoDB",1
+"PHP Laravel backend development","Need Python Django developer",0
+"Python data science pandas matplotlib seaborn","Need data scientist pandas visualization",1
+"Python ML regression classification feature engineering","Need ML engineer feature engineering",1
+"Python NLP resume screening project","Need resume screening NLP system Python",1
+"Python SQL internship project","Need Java Spring Boot developer",0
+"Python OpenCV image processing","Need computer vision OpenCV engineer",1
+"Python image classification CNN","Need pneumonia detection CNN model",1
+"Python machine learning random forest logistic regression","Need ML classification models random forest",1
+"Python data preprocessing missing values outliers","Need data cleaning preprocessing skills",1
+"Python statistics probability hypothesis testing","Need data analyst statistics",1
+"Python web scraping BeautifulSoup requests","Need data scraping Python",1
+"Python Django HTML CSS","Need frontend React",0
+"Java OOP DSA","Need Python ML engineer",0
+"Python SQL ETL pipeline","Need ETL developer SQL Python",1
+"Power BI DAX data modeling","Need Power BI developer DAX",1
+"Tableau dashboards storytelling","Need Tableau dashboard developer",1
+"Python AWS Lambda serverless","Need AWS serverless Lambda developer",1
+"Python Docker Kubernetes basics","Need DevOps Docker Kubernetes",1
+"DevOps Jenkins CI CD","Need Python NLP developer",0
+"Python Flask Streamlit ML model integration","Need Streamlit ML app developer",1
+"Python machine learning model evaluation confusion matrix","Need ML evaluation metrics precision recall F1",1
+"Python NLP tokenization lemmatization stopwords","Need NLP preprocessing skills",1
+"Python SQL joins subqueries","Need SQL queries joins subqueries",1
+"Python beginner projects","Need senior ML engineer deep learning",0
+"React Redux frontend UI","Need React developer Redux",1
+"Node Express REST API MongoDB","Need Node backend developer MongoDB",1
+"Python FastAPI REST API","Need FastAPI developer Python",1
+"Python Flask FastAPI Django","Need Python backend framework experience",1
+"Python ML XGBoost LightGBM","Need ML engineer XGBoost",1
+"Python deep learning transformers BERT","Need NLP engineer BERT transformers",1
+"Python basic NLP TF-IDF","Need NLP engineer BERT transformers",0
+"Python SQL data warehouse","Need data engineer SQL warehouse",1
+"Python Spark big data","Need big data Spark developer",1
+"Python Hadoop MapReduce","Need Hadoop developer",1
+"Python pandas numpy SQL","Need Java developer",0
+"JavaScript HTML CSS","Need data analyst Python SQL",0
+"Python SQL Excel Power BI","Need BI analyst Excel Power BI SQL",1
+"Python Streamlit dashboard","Need Streamlit dashboard developer",1
+"Python ML model deployment","Need ML engineer deployment",1
+"Python Git GitHub version control","Need Git GitHub collaboration",1
+"Python Linux shell scripting","Need Linux scripting automation",1
+"Python cybersecurity malware analysis","Need cybersecurity analyst",1
+"Python ML anomaly detection","Need anomaly detection ML engineer",1
+"Python recommender system collaborative filtering","Need recommender system engineer",1
+"Python NLP sentiment analysis","Need sentiment analysis NLP",1
+"Python computer vision face recognition","Need face recognition OpenCV",1
+"Python OpenCV YOLO object detection","Need object detection YOLO",1
+"Python SQL HR analytics","Need HR analytics Python SQL",1
+"Python finance analytics time series","Need time series forecasting",1
+"Python LSTM time series forecasting","Need forecasting LSTM",1
+"Python ML clustering kmeans","Need clustering unsupervised learning",1
+"Python PCA dimensionality reduction","Need PCA dimensionality reduction",1
+"Python reinforcement learning basics","Need web developer React",0
+"Python Django backend","Need Django backend developer",1
+"Java Spring Hibernate","Need Spring Hibernate developer",1
+"Java Spring Hibernate","Need Python Flask developer",0
+"Python Flask microservices","Need microservices Flask developer",1
+"Python REST API development","Need API developer Python",1
+"Python SQL stored procedures","Need SQL stored procedures",1
+"Python MongoDB NoSQL","Need MongoDB developer",1
+"Python PostgreSQL database","Need PostgreSQL developer",1
+"Python data visualization matplotlib","Need visualization matplotlib",1
+"Python ML feature selection","Need feature selection ML",1
+"Python NLP named entity recognition","Need NER NLP engineer",1
+"Python NLP keyword extraction","Need keyword extraction NLP",1
+"Python resume parser project","Need resume parsing NLP system",1
+"Python basic web development","Need advanced ML engineer",0
+"Python scikit-learn pipelines","Need ML pipelines scikit-learn",1
+"Python classification imbalance handling","Need imbalance handling class weights",1
+"Python random forest model tuning","Need hyperparameter tuning random forest",1
+"Python grid search cross validation","Need cross validation grid search",1
+"Python beginner SQL","Need senior data engineer Spark",0
+"Python SQL joins aggregation","Need SQL aggregation joins",1
+"Python Excel data cleaning","Need Excel cleaning analyst",1
+"Python Power BI dashboards","Need Power BI dashboard developer",1
+"Python Tableau visualization","Need Tableau visualization developer",1
+"Python cloud AWS basics","Need AWS cloud engineer",1
+"Python Azure cloud basics","Need Azure cloud engineer",1
+"Python GCP cloud basics","Need GCP cloud engineer",1
+"Python Docker containerization","Need Docker containerization",1
+"Python Kubernetes orchestration","Need Kubernetes orchestration",1
+"Python DevOps automation","Need DevOps engineer Jenkins Docker",0
+"Python NLP topic modeling LDA","Need topic modeling LDA",1
+"Python NLP text classification","Need text classification NLP",1
+"Python email spam detection NLP","Need spam detection NLP",1
+"Python OCR text extraction","Need OCR text extraction",1
+"Python PDF parsing resume extraction","Need resume PDF parsing",1
+"Python regex parsing","Need regex parsing text",1
+"Python backend + SQL","Need frontend React",0
+"Python ML internship experience","Need ML intern Python",1
+"Python Flask internship project","Need Flask intern Python",1
+"Python SQL internship project","Need SQL intern",1
+"Java internship project","Need Python intern",0
+"Python machine learning capstone project","Need final year ML project",1
+"Python NLP final year project","Need final year NLP project",1
+"Python cloud deployment final year","Need final year deployment project",1
+"Python basic coding","Need deep learning research engineer",0
+"Python Java both","Need Java developer",1
+"Python Java both","Need Python developer",1
+"Python React full stack","Need full stack React Python",1
+"React frontend only","Need backend Python SQL",0
+"Python SQL backend only","Need frontend React UI",0
+"Python ML and NLP","Need NLP ML engineer Python",1
+"Python data science ML NLP","Need data scientist NLP ML",1
+"Python deep learning CNN","Need CNN deep learning",1
+"Python ML + deployment Streamlit","Need Streamlit deployment ML",1
+"Python Git Docker deployment","Need DevOps Git Docker",1
+"Python cybersecurity + networking","Need cybersecurity networking",1
+"Python computer vision + ML","Need ML computer vision",1
+"Python SQL + dashboards","Need analyst SQL dashboards",1
+"Python Excel + Power BI","Need BI analyst Power BI Excel",1
+"Python Spark + SQL","Need data engineer Spark SQL",1
+"Python Django + AWS","Need Django AWS developer",1
+"Python Flask + AWS","Need Flask AWS developer",1
+"Python NLP + resume screening","Need resume screening system NLP",1
+"HTML CSS JS beginner","Need NLP ML Python",0
+"Java Spring beginner","Need advanced Spring developer",0
+"Python ML beginner","Need ML engineer with deployment and tuning",0
